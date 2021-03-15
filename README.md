@@ -12,7 +12,7 @@ Para la implementación he usado Processing 3.5.4.
 
 <img src="readmeImages/generalCamera.png"
      alt="Cámara general"
-     width="40%" />
+     width="80%" />
 
 **Cámara general:** En la cámara principal lo que vemos es el sistema planetario y la nave desde lejos, en la izquierda abajo tenemos algunos controles para controlar la posición de esta cámara además de otras funcionalidades.
 
@@ -24,7 +24,7 @@ Para la implementación he usado Processing 3.5.4.
 
 <img src="readmeImages/3dView.png"
      alt="Cámara nave"
-     width="40%" />
+     width="80%" />
 
 **Cámara 3d nave:** La cámara se ve desde encima de la nave con lo que en esta vista también se pude observar la nave, opte por esta vista y no la vista first person por que en este caso me parece que da sensación de control, por que al ser el fondo practicamente negro con la vista first person parece que no te estas moviendo.
 
