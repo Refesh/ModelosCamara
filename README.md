@@ -11,10 +11,10 @@ Esta práctica es una extensión de la práctica anterior donde se intenta añad
 Para la implementación he usado Processing 3.5.4.
 
 <img src="readmeImages/generalCamera.png"
-     alt="Menu"
+     alt="Cámara general"
      width="40%" />
 
-**Camara general:** En la camra principal lo que vemos es el sistema planetario y la nave desde lejos, en la izquierda abajo tenemos algunos controles para controlar la posición de esta camara además de otras funcionalidades.
+**Cámara general:** En la cámara principal lo que vemos es el sistema planetario y la nave desde lejos, en la izquierda abajo tenemos algunos controles para controlar la posición de esta cámara además de otras funcionalidades.
 
 **Modelo nave:** Para el modelo de la nave cogí uno online que encontré https://www.cgtrader.com/items/869754/download-page.
 
@@ -23,7 +23,7 @@ Para la implementación he usado Processing 3.5.4.
 **Físicas del movimiento** Para que quede un movimiento "realista" la nave al pulsar la flecha up se mueve en la dirección que este apuntando, cada vez se moverá más rápido, en cada iteración la nave también pierde un porcentaje de su velocidad por lo que cuando dejemos de acelerar se parará de forma gradual y no brusca. Esto es la inercia de la nave.
 
 <img src="readmeImages/3dView.png"
-     alt="Figure"
+     alt="Cámara nave"
      width="40%" />
 
 **Cámara 3d nave:** La cámara se ve desde encima de la nave con lo que en esta vista también se pude observar la nave, opte por esta vista y no la vista first person por que en este caso me parece que da sensación de control, por que al ser el fondo practicamente negro con la vista first person parece que no te estas moviendo.
